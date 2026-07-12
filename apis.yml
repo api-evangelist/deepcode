@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://www.deepcode.ai
 common:
+  - type: VulnerabilityDisclosure
+    url: security/deepcode-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/deepcode-domain-security.yml
   - type: Website
     url: https://www.deepcode.ai
   - type: PublicAPIsListing
